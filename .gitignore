@@ -1,6 +1,7 @@
 *.bin
 *.exe
 *.pyc
+.vscode
 
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,venv
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,venv
