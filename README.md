@@ -1,6 +1,6 @@
 # My_Blog_django
 
-[action status](https://github.com/Kolyanuss/My_Blog_django/actions/workflows/github-actions-demo.yml/badge.svg)
+[action status](https://github.com/Kolyanuss/My_Blog_django/actions/workflows/django.yml/badge.svg)
 
 ## Project Description
 My_Blog_django is a project designed to help understand and practice the basics of Django, a high-level Python web framework. This project includes various labs and exercises to build and improve your Django skills.
