@@ -36,16 +36,21 @@ My_Blog_django is a project designed to help understand and practice the basics 
    pip install -r requirements.txt
    ```
 
-## Running the Project
-
-1. Navigate to the project directory:
+5. Apply database migrations:
    ```sh
-   cd mysite
+   python mysite\manage.py migrate
    ```
 
-2. Run the Django development server:
+6. Collect static files:
    ```sh
-   python manage.py runserver
+   python mysite\manage.py collectstatic
+   ```
+
+## Running the Project
+
+Run the Django development server:
+   ```sh
+   python mysite\manage.py runserver
    ```
 
 ## Deactivating the Virtual Environment
